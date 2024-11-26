@@ -20,6 +20,8 @@ git clone <repository-url>
 cd <repository-directory>
 ```
 
+Get the .zip file for the Server from CurseForge (ensure you change the .zip file name used in the Dockerfile)
+
 ### **2. Build the Docker Image**
 Build the Docker image using the included `Dockerfile`:
 ```bash
